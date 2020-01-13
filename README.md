@@ -1,4 +1,8 @@
-# search m8
+# Search m8
+
+A service that scrapes google and youtube search to transcribe and obtain summaries and keywords of the content in articles and videos. 
+
+Made for Inventure Hackathon 2020 by team Etwas.
 
 # Packages used
 
@@ -10,9 +14,6 @@
 * [youtube-transcript-api](https://pypi.org/project/youtube-transcript-api/) - For transcribing youtube videos
 * [youtube-search](https://pypi.org/project/youtube-search/) - For obtaining youtube search results
 * [requests](https://pypi.org/project/requests/) - For sending http requests to obtain search engine results
-
-
-Made for Inventure Hackathon 2020 by team Etwas
 
 # How to run code
 ```cmd
